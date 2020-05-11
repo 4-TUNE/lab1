@@ -21,5 +21,6 @@ class Program
         double b = double.Parse(S2); 
         Example(a, b);
         Console.ReadLine();
+        Console.ReadLine();
     }
 }
